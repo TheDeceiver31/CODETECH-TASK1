@@ -1,8 +1,13 @@
 Name - Chandan Bishoyi
+---
 Company- CODTECH IT SOLUTIONS
+---
 ID-CT08DBO  
+---
 Domain-Android Development
+---
 Duration- December 12th, 2024 to January 12th, 2025.
+---
 ### Project Overview: To-Do List App  
 
 ---
