@@ -15,6 +15,9 @@ Duration- December 12th, 2024 to January 12th, 2025.
 
 **Project Title:**  
 **Minimalistic To-Do List App**  
+![WhatsApp Image 2024-12-30 at 21 53 55_6e4ad210](https://github.com/user-attachments/assets/9000970b-2d8e-42fe-acb6-03581c5e1f91)
+
+
 
 ![WhatsApp Image 2024-12-30 at 21 53 53_999f54ef](https://github.com/user-attachments/assets/8e204195-aa0c-434b-9cd0-780b5da3bf43)
 
